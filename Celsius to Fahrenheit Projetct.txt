@@ -1,9 +1,0 @@
-celsius = float(input('Enter temperature in Celsius: '))  
-  
-# calculate temperature in Fahrenheit  
-fahrenheit = (celsius * 1.8) + 32  
-print('%0.1f  Celsius is equal to %0.1f degree Fahrenheit'%(celsius,fahrenheit)) 
-
-Output:
-Enter temperature in Celsius: 50
-50.0  Celsius is equal to 122.0 degree Fahrenheit
